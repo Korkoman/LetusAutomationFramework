@@ -1,0 +1,586 @@
+10:44:09 [Information] [BeforeEachTest] Iniciando prueba: "UnknownTest"
+10:48:58 [Information] [BeforeEachTest] Iniciando prueba: "UnknownTest"
+10:49:01 [Information] Se inicia el test 1
+10:49:01 [Information] Este es el título de la página: System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.String,Microsoft.Playwright.Core.Frame+<TitleAsync>d__39]
+10:49:01 [Information] Test finalizó correctamente.
+10:49:01 [Information] [AfterEachTest] Finalizando prueba: "TestTest"
+10:49:58 [Information] [BeforeEachTest] Iniciando prueba: "UnknownTest"
+10:50:01 [Information] Se inicia el test 1
+10:50:01 [Information] Este es el título de la página: System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.String,Microsoft.Playwright.Core.Frame+<TitleAsync>d__39]
+10:50:01 [Information] Test finalizó correctamente.
+10:50:01 [Information] [AfterEachTest] Finalizando prueba: "TestTest"
+10:56:47 [Information] [BeforeEachTest] Iniciando prueba: "UnknownTest"
+10:56:58 [Information] Se inicia el test 1
+10:56:58 [Information] Este es el título de la página: System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[System.String,Microsoft.Playwright.Core.Frame+<TitleAsync>d__39]
+10:56:58 [Information] Test finalizó correctamente.
+10:56:58 [Information] [AfterEachTest] Finalizando prueba: "TestTest"
+10:58:10 [Information] [BeforeEachTest] Iniciando prueba: "UnknownTest"
+10:58:14 [Information] Se inicia el test 1
+10:58:14 [Information] Este es el título de la página:{title}DEMOQA
+10:58:14 [Information] Test finalizó correctamente.
+10:58:14 [Information] [AfterEachTest] Finalizando prueba: "TestTest"
+11:05:07 [Information] [BeforeEachTest] Iniciando prueba: "UnknownTest"
+11:05:21 [Information] Se inicia el test 1
+11:05:21 [Information] Este es el título de la página:"DEMOQA" 
+11:05:21 [Information] Test finalizó correctamente.
+11:05:21 [Information] [AfterEachTest] Finalizando prueba: "TestTest"
+11:05:53 [Information] [BeforeEachTest] Iniciando prueba: "UnknownTest"
+11:05:57 [Information] Se inicia el test 1
+11:05:57 [Information] Este es el título de la página:"DEMOQA" 
+11:05:57 [Information] Test finalizó correctamente.
+11:05:57 [Information] [AfterEachTest] Finalizando prueba: "TestTest"
+11:19:48 [Information] [BeforeEachTest] Iniciando prueba: "UnknownTest"
+11:19:59 [Information] Se inicia el test 1
+11:19:59 [Information] Este es el título de la página:"DEMOQA" 
+11:19:59 [Information] Test finalizó correctamente.
+11:19:59 [Information] [AfterEachTest] Finalizando prueba: "TestTest"
+11:20:21 [Information] [BeforeEachTest] Iniciando prueba: "UnknownTest"
+11:20:25 [Information] Se inicia el test 1
+11:20:25 [Information] Este es el título de la página:"DEMOQA" 
+11:20:50 [Information] Test finalizó correctamente.
+11:20:50 [Information] [AfterEachTest] Finalizando prueba: "TestTest"
+13:19:27 [Information] [BeforeEachTest] Iniciando prueba: "UnknownTest"
+13:19:50 [Information] Se inicia el test 1
+13:19:50 [Information] Este es el título de la página:"DEMOQA" 
+13:19:50 [Information] Test finalizó correctamente.
+13:19:50 [Information] [AfterEachTest] Finalizando prueba: "TestTest"
+13:25:02 [Information] [BeforeEachTest] Iniciando prueba: "UnknownTest"
+13:25:13 [Information] Se inicia el test 1
+13:25:13 [Information] Este es el título de la página:"DEMOQA" 
+13:25:13 [Information] Test finalizó correctamente.
+13:25:13 [Information] [AfterEachTest] Finalizando prueba: "TestTest"
+13:36:56 [Information] [BeforeEachTest] Iniciando prueba: "UnknownTest"
+13:37:04 [Information] Se inicia el test 1
+13:37:04 [Information] Este es el título de la página:"DEMOQA" 
+13:37:04 [Information] Test finalizó correctamente.
+13:37:04 [Information] [AfterEachTest] Finalizando prueba: "TestTest"
+13:39:46 [Information] [BeforeEachTest] Iniciando prueba: "UnknownTest"
+13:39:50 [Information] TestingTestTest1
+13:39:50 [Information] Este es el título de la página:"DEMOQA" 
+13:39:50 [Information] Test finalizó correctamente.
+13:39:50 [Information] [AfterEachTest] Finalizando prueba: "TestTest"
+13:46:08 [Information] [BeforeEachTest] Iniciando prueba: "TestTest"
+13:46:19 [Information] Test finalizó correctamente.
+13:46:19 [Information] [AfterEachTest] Finalizando prueba: "TestTest"
+13:46:19 [Information] [BeforeEachTest] Iniciando prueba: "TestTest"
+13:46:20 [Information] TestingTestTest1
+13:46:20 [Information] Este es el título de la página:"DEMOQA" 
+13:46:20 [Information] Test finalizó correctamente.
+13:46:20 [Information] [AfterEachTest] Finalizando prueba: "TestTest"
+13:49:37 [Information] [BeforeEachTest] Iniciando prueba: "TestTest"
+13:49:45 [Information] Iniciando "TestingTestTest1" 
+13:49:45 [Information] Este es el título de la página:"DEMOQA" 
+13:49:45 [Information] Test finalizó correctamente.
+13:49:45 [Information] [AfterEachTest] Finalizando prueba: "TestTest"
+13:50:45 [Information] [BeforeEachTest] Iniciando prueba: "TestTest"
+13:50:59 [Information] Iniciando "TestingTestTest1" 
+13:50:59 [Information] Este es el título de la página:"DEMOQA" 
+13:50:59 [Information] Test finalizó "TestTest" correctamente.
+13:50:59 [Information] [AfterEachTest] Finalizando prueba: "TestTest"
+13:55:13 [Information] Iniciando "TestingTestTest1" 
+13:55:13 [Information] Este es el título de la página:"DEMOQA" 
+13:55:13 [Information] Finalizando "TestingTestTest1" 
+13:55:13 [Information] Test finalizó "TestTest" correctamente.
+13:57:03 [Information] Iniciando "TestingTestTest1" 
+13:57:03 [Information] Este es el título de la página:"DEMOQA" 
+13:57:03 [Information] Test finalizó correctamente.
+14:13:12 [Information] Iniciando "TestTest" 
+14:13:12 [Information] Este es el título de la página:"DEMOQA" 
+14:13:12 [Information] Test finalizó correctamente.
+14:14:19 [Information] Iniciando "BeforeEachTestAsync" 
+14:14:23 [Information] Iniciando "TestTest" 
+14:14:23 [Information] Este es el título de la página:"DEMOQA" 
+14:14:23 [Information] Test finalizó correctamente.
+14:22:48 [Information] Iniciando "TestingTestTest1" 
+14:22:48 [Information] Este es el título de la página:"DEMOQA" 
+14:22:48 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 37
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 70
+14:22:48 [Information] Test finalizó correctamente.
+14:23:45 [Information] Iniciando "TestingTestTest1" 
+14:23:45 [Information] Este es el título de la página:"DEMOQA" 
+14:23:45 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 37
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 70
+14:23:45 [Information] Test finalizó correctamente.
+14:26:36 [Information] Iniciando "TestingTestTest1" 
+14:26:36 [Information] Este es el título de la página:"DEMOQA" 
+14:26:36 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 37
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 52
+14:26:36 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\bin\Debug\net8.0\Screenshots\TestingTestTest1_20250803_142636.png"
+14:26:36 [Information] Test finalizó correctamente.
+14:28:38 [Information] Iniciando "TestingTestTest2" 
+14:28:38 [Information] Este es el título de la página:"DEMOQA" 
+14:28:38 [Information] Finalizando "TestingTestTest2" 
+14:28:38 [Information] Test finalizó correctamente.
+14:28:39 [Information] Iniciando "TestingTestTest1" 
+14:28:39 [Information] Este es el título de la página:"DEMOQA" 
+14:28:39 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 37
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 52
+14:28:39 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\bin\Debug\net8.0\Screenshots\TestingTestTest1_20250803_142839.png"
+14:28:39 [Information] Test finalizó correctamente.
+14:32:07 [Information] Iniciando "TestingTestTest2" 
+14:32:07 [Information] Este es el título de la página:"DEMOQA" 
+14:32:07 [Information] Finalizando "TestingTestTest2" 
+14:32:07 [Information] Test finalizó correctamente.
+14:32:14 [Information] Iniciando "TestingTestTest1" 
+14:32:14 [Information] Este es el título de la página:"DEMOQA" 
+14:32:14 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 37
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 52
+14:32:14 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\Screenshots\TestingTestTest1_20250803_143214.png"
+14:32:14 [Information] Test finalizó correctamente.
+14:34:11 [Information] Iniciando "TestingTestTest1" 
+14:34:11 [Information] Este es el título de la página:"DEMOQA" 
+14:34:12 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 37
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 52
+14:34:12 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\bin\Screenshots\TestingTestTest1_20250803_143412.png"
+14:34:12 [Information] Test finalizó correctamente.
+14:35:10 [Information] Iniciando "TestingTestTest1" 
+14:35:10 [Information] Este es el título de la página:"DEMOQA" 
+14:35:10 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 37
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 52
+14:35:11 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestingTestTest1_20250803_143510.png"
+14:35:11 [Information] Test finalizó correctamente.
+14:58:34 [Information] Iniciando "TestingTestTest2" 
+14:58:34 [Information] Este es el título de la página:"DEMOQA" 
+14:58:34 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAt"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest2>b__4_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 52
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+14:58:35 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestingTestTest2_20250803_145834.png"
+14:58:35 [Information] Test finalizó correctamente.
+14:58:35 [Information] Este es el título de la página:"DEMOQA" 
+14:58:35 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 36
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+14:58:35 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestingTestTest1_20250803_145835.png"
+14:58:35 [Information] Test finalizó correctamente.
+15:00:29 [Information] Iniciando "TestingTestTest2" 
+15:00:29 [Information] Este es el título de la página:"DEMOQA" 
+15:00:29 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAt"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest2>b__4_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 52
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:00:29 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\bin\Screenshots\TestingTestTest2_20250803_150029.png"
+15:00:29 [Information] Test finalizó correctamente.
+15:00:33 [Information] Este es el título de la página:"DEMOQA" 
+15:00:33 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 36
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:00:34 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\bin\Screenshots\TestingTestTest1_20250803_150033.png"
+15:00:34 [Information] Test finalizó correctamente.
+15:02:13 [Information] Iniciando "TestingTestTest2" 
+15:02:13 [Information] Este es el título de la página:"DEMOQA" 
+15:02:13 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAt"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest2>b__4_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 52
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:02:13 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\bin\Debug\Screenshots\TestingTestTest2_20250803_150213.png"
+15:02:13 [Information] Test finalizó correctamente.
+15:02:17 [Information] Este es el título de la página:"DEMOQA" 
+15:02:17 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 36
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:02:17 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\bin\Debug\Screenshots\TestingTestTest1_20250803_150217.png"
+15:02:17 [Information] Test finalizó correctamente.
+15:03:34 [Information] Iniciando "TestingTestTest2" 
+15:03:34 [Information] Este es el título de la página:"DEMOQA" 
+15:03:34 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAt"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest2>b__4_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 52
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:03:34 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\TestingTestTest2\Screenshots\TestingTestTest2_20250803_150334.png"
+15:03:34 [Information] Test finalizó correctamente.
+15:03:35 [Information] Este es el título de la página:"DEMOQA" 
+15:03:35 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 36
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:03:35 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\TestingTestTest1\Screenshots\TestingTestTest1_20250803_150335.png"
+15:03:35 [Information] Test finalizó correctamente.
+15:05:07 [Information] Iniciando "TestingTestTest2" 
+15:05:07 [Information] Este es el título de la página:"DEMOQA" 
+15:05:08 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAt"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest2>b__4_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 52
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:05:08 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestingTestTest2\TestingTestTest2_20250803_150508.png"
+15:05:08 [Information] Test finalizó correctamente.
+15:05:12 [Information] Este es el título de la página:"DEMOQA" 
+15:05:12 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 36
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:05:12 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestingTestTest1\TestingTestTest1_20250803_150512.png"
+15:05:12 [Information] Test finalizó correctamente.
+15:06:59 [Information] Iniciando "TestingTestTest2" 
+15:06:59 [Information] Este es el título de la página:"DEMOQA" 
+15:06:59 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAt"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest2>b__4_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 52
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:06:59 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\Func`1\TestingTestTest2\TestingTestTest2_20250803_150659.png"
+15:06:59 [Information] Test finalizó correctamente.
+15:07:00 [Information] Este es el título de la página:"DEMOQA" 
+15:07:00 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 36
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:07:00 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\Func`1\TestingTestTest1\TestingTestTest1_20250803_150700.png"
+15:07:00 [Information] Test finalizó correctamente.
+15:11:40 [Information] Iniciando "TestingTestTest2" 
+15:11:40 [Information] Este es el título de la página:"DEMOQA" 
+15:11:40 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAt"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest2>b__4_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 52
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:11:40 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestTest\TestingTestTest2\TestingTestTest2_20250803_151140.png"
+15:11:40 [Information] Test finalizó correctamente.
+15:11:40 [Information] Este es el título de la página:"DEMOQA" 
+15:11:40 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 36
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:11:41 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestTest\TestingTestTest1\TestingTestTest1_20250803_151140.png"
+15:11:41 [Information] Test finalizó correctamente.
+15:16:00 [Information] Iniciando "TestingTestTest2" 
+15:16:00 [Information] Este es el título de la página:"DEMOQA" 
+15:16:00 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAt"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest2>b__4_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 52
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:16:00 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestTest\TestingTestTest2\TestingTestTest2_20250803_151600.png"
+15:16:00 [Information] Test finalizó correctamente.
+15:16:00 [Information] Este es el título de la página:"DEMOQA" 
+15:16:00 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 36
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:16:01 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestTest\TestingTestTest1\TestingTestTest1_20250803_151600.png"
+15:16:01 [Information] Test finalizó correctamente.
+15:33:22 [Information] Iniciando "TestingTestTest2" 
+15:33:22 [Information] Este es el título de la página:"DEMOQA" 
+15:33:22 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAt"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest2>b__4_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 52
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:33:22 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestTest\TestingTestTest2\TestingTestTest2_20250803_153322.png"
+15:33:22 [Information] Test finalizó correctamente.
+15:33:22 [Information] Este es el título de la página:"DEMOQA" 
+15:33:22 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 36
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:33:22 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestTest\TestingTestTest1\TestingTestTest1_20250803_153322.png"
+15:33:22 [Information] Test finalizó correctamente.
+15:33:44 [Information] Iniciando "TestingTestTest2" 
+15:33:44 [Information] Este es el título de la página:"DEMOQA" 
+15:33:44 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAt"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest2>b__4_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 52
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:33:44 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestTest\TestingTestTest2\TestingTestTest2_20250803_153344.png"
+15:33:44 [Information] Test finalizó correctamente.
+15:33:45 [Information] Este es el título de la página:"DEMOQA" 
+15:33:45 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 36
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:33:45 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestTest\TestingTestTest1\TestingTestTest1_20250803_153345.png"
+15:33:45 [Information] Test finalizó correctamente.
+15:34:35 [Information] Iniciando "TestingTestTest2" 
+15:34:35 [Information] Este es el título de la página:"DEMOQA" 
+15:34:35 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAt"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest2>b__4_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 52
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:34:35 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestTest\TestingTestTest2\TestingTestTest2_20250803_153435.png"
+15:34:35 [Information] Test finalizó correctamente.
+15:34:41 [Information] Este es el título de la página:"DEMOQA" 
+15:34:41 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 36
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:34:41 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestTest\TestingTestTest1\TestingTestTest1_20250803_153441.png"
+15:34:41 [Information] Test finalizó correctamente.
+15:36:31 [Information] Iniciando "TestingTestTest2" 
+15:36:31 [Information] Este es el título de la página:"DEMOQA" 
+15:36:31 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAt"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest2>b__4_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 52
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:36:31 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestTest\TestingTestTest2\TestingTestTest2_20250803_153631.png"
+15:36:31 [Information] Test finalizó correctamente.
+15:36:32 [Information] Este es el título de la página:"DEMOQA" 
+15:36:32 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 36
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 46
+15:36:32 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestTest\TestingTestTest1\TestingTestTest1_20250803_153632.png"
+15:36:32 [Information] Test finalizó correctamente.
+20:04:11 [Information] Este es el título de la página:"DEMOQA" 
+20:04:11 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 36
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 41
+20:04:11 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestTest\TestingTestTest1\TestingTestTest1_20250803_200411.png"
+20:04:11 [Information] Test finalizó correctamente.
+20:10:14 [Information] Este es el título de la página:"DEMOQA" 
+20:10:15 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 36
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 41
+20:10:15 [Information] Test finalizó correctamente.
+20:11:17 [Information] Este es el título de la página:"DEMOQA" 
+20:11:17 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 36
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 41
+20:11:17 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestTest\TestingTestTest1\TestingTestTest1_20250803_201117.png"
+20:11:17 [Information] Test finalizó correctamente.
+20:13:02 [Information] Este es el título de la página:"DEMOQA" 
+20:13:02 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAS"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest1>b__3_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 36
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 41
+20:13:02 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestTest\TestingTestTest1\TestingTestTest1_20250803_201302.png"
+20:13:02 [Information] Test finalizó correctamente.
+20:13:03 [Information] Iniciando "TestingTestTest2" 
+20:13:03 [Information] Este es el título de la página:"DEMOQA" 
+20:13:03 [Error] Test falló con excepción.
+Xunit.Sdk.EqualException: Assert.Equal() Failure: Strings differ
+                 ↓ (pos 6)
+Expected: "DEMOQAt"
+Actual:   "DEMOQA"
+   at Xunit.Assert.Equal(ReadOnlySpan`1 expected, ReadOnlySpan`1 actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 965
+   at Xunit.Assert.Equal(String expected, String actual, Boolean ignoreCase, Boolean ignoreLineEndingDifferences, Boolean ignoreWhiteSpaceDifferences, Boolean ignoreAllWhiteSpace) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 1342
+   at Xunit.Assert.Equal(String expected, String actual) in /_/src/xunit.assert/Asserts/StringAsserts.cs:line 849
+   at PlaywrightTests.Tests.TestTest.<TestingTestTest2>b__4_0() in C:\Users\admin\source\repos\PlaywrightTests\Tests\TestTest.cs:line 52
+   at PlaywrightTests.Hooks.HooksBase.RunSafe(Func`1 testBody) in C:\Users\admin\source\repos\PlaywrightTests\Hooks\HooksBase.cs:line 41
+20:13:03 [Error] Test falló — Screenshot guardado en: "C:\Users\admin\source\repos\PlaywrightTests\Screenshots\TestTest\TestingTestTest2\TestingTestTest2_20250803_201303.png"
+20:13:03 [Information] Test finalizó correctamente.
